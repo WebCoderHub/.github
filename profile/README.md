@@ -1,4 +1,4 @@
-## Heyyo, We're <a href="https://aakarsh.me" target="_blank">Noob Scripters</a>!
+## Heyyo, We're <a href="redzoid.blogspot.com" target="_blank">Noob Scripters</a>!
 <br/>
 
 <p align="left">
