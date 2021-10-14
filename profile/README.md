@@ -2,7 +2,7 @@
     <img src="https://komarev.com/ghpvc/?username=Noob-Scripters">
 </a>
 
-## Heyyo, We're <a href="redzoid.blogspot.com" target="_blank">Noob Scripters</a>!
+## Hey, We're <a href="redzoid.blogspot.com" target="_blank">Noob Scripters</a> !
 
 <p align="left">
 <a href = "https://redzoid.blogspot.com"><img src="https://img.icons8.com/color/48/000000/blogger.png"/></a>
