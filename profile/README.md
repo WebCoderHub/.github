@@ -31,7 +31,7 @@
 
 ## 📊 Our Github Stats
   <br/>
-    <a href="https://github.com/Noob-Scripters/github-readme-stats"><img alt="Noob-Scripters Github Stats" src="https://github-readme-stats.vercel.app/api?username=Noob-Scripters&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Noob-Scripters/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Noob-Scripters&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 <br/>
 
